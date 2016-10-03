@@ -16,9 +16,9 @@ ul > li{
   margin: 0px 0px 50px 10px;
   list-style-type: none;
 }
+
 h1{
   margin: 50px 0px 50px 50px;
-
 }
 
 h3{
@@ -28,6 +28,11 @@ h3{
 p{
   font-size: 17px;
   margin-right: 50px;
+}
+
+.fix{
+  font-weight: bold;
+  margin-left: 50px;
 }
 
 header{
@@ -44,12 +49,4 @@ a{
   background: none;
   color: white;
   text-decoration: underline;
-}
-
-img{
-  margin-left: -500px;
-  margin-bottom: 10px;
-  margin: inherit;
-  position: absolute;
-  clip: rect(10px,700px,500px,30px);
 }
