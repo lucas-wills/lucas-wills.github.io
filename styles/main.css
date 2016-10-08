@@ -1,7 +1,7 @@
 
 body {
   color: white;
-  margin: 20px;
+  margin-right: 20px;
   font-family: Verdana;
   background-image:url("http://www.spyderonlines.com/images/wallpapers/dark-background-pictures/dark-background-pictures-6.jpg");
   background-size: cover;
@@ -26,18 +26,9 @@ h3{
 }
 
 p{
+  font-weight:normal;
   font-size: 17px;
-  margin-right: 50px;
-}
-
-.fix{
-  font-weight: bold;
-  margin-left: 50px;
-}
-
-header{
-  background: none;
-  color: white;
+  margin: 50px 200px 50px 50px;
 }
 
 a:hover {
@@ -49,4 +40,8 @@ a{
   background: none;
   color: white;
   text-decoration: underline;
+}
+
+.title{
+  margin-top: 50px;
 }
