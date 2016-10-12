@@ -1,0 +1,65 @@
+body{
+}
+
+h1 {
+  text-align: center;
+  margin-top: 5em;
+  border: solid #c0c0a5 1rem;
+}
+
+.blog{
+  text-align: left;
+}
+
+h3 {
+  margin-left: .5em;
+}
+
+nav {
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+  color: #595959;
+}
+
+a:hover {
+  color: #595959;
+}
+
+p {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.blog {
+  padding-left: 42px;
+  padding-right: 42px;
+}
+
+.about {
+  padding-left: 38px;
+  padding-right: 38px;
+}
+
+.projects {
+  padding-left: 27px;
+  padding-right: 27px;
+}
+
+.blog {
+  margin-top: 0px;
+}
+
+.blogarea {
+  height: 500px;
+  overflow: auto;
+}
+
+
+.container {
+}
+
+/* SERVICES STYLES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
