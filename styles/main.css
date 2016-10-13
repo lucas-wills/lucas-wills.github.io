@@ -27,9 +27,37 @@ h1 {
 }
 
 .blog{
-  text-align: left;
+  text-align: center;
+  margin-top: 0px;
+  height: 40px;
+  width: 120px;
+  padding-left: 27px;
+  padding-right: 27px;
 }
 
+.about {
+  text-align: center;
+  height: 40px;
+  width: 120px;
+  padding-left: 27px;
+  padding-right: 27px;
+}
+
+.projects {
+  text-align: center;
+  height: 40px;
+  width: 120px;
+  padding-left: 27px;
+  padding-right: 27px;
+}
+
+.contact{
+  text-align: center;
+  height: 40px;
+  width: 120px;
+  padding-left: 27px;
+  padding-right: 27px;
+}
 h3 {
   margin-left: .5em;
 }
@@ -52,24 +80,6 @@ p {
   margin-right: 1em;
 }
 
-.blog {
-  padding-left: 42px;
-  padding-right: 42px;
-}
-
-.about {
-  padding-left: 38px;
-  padding-right: 38px;
-}
-
-.projects {
-  padding-left: 27px;
-  padding-right: 27px;
-}
-
-.blog {
-  margin-top: 0px;
-}
 
 .blogarea {
   height: 500px;
@@ -77,7 +87,12 @@ p {
 }
 
 
-.container {
+.line {
+  background-color:#c0c0a5;
+  border-radius: 25px;
+  width: 98%;
+  height: 5px;
+}
 
 
 /* SERVICES STYLES
