@@ -1,7 +1,7 @@
-@media screen (max-width: 550px){
-body{
-  display: inline-block;
-}
+@media (min-width: 400px){
+  div {
+  width: 100%;
+  box-sizing: border-box; }
  }
 
 body > img {
