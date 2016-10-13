@@ -1,3 +1,9 @@
+@media screen (max-width: 550px){
+body{
+  display: inline-block;
+}
+ }
+
 body > img {
   /* Set rules to fill background */
   min-height: 100%;
