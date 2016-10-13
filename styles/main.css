@@ -1,5 +1,5 @@
 @media (min-width: 400px){
-  div {
+  .blogarea {
   width: 100%;
   box-sizing: border-box; }
  }
