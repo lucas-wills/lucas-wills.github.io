@@ -25,7 +25,11 @@ h1 {
   margin-top: 5em;
   border: solid #c0c0a5 1rem;
 }
-
+.blogtitle{
+  padding-left: .1em;
+  margin-top: .5em;
+  text-align: left;
+}
 .blog{
   text-align: center;
   margin-top: 0px;
@@ -88,6 +92,7 @@ p {
 
 
 .line {
+  margin-bottom: 1em;
   background-color:#c0c0a5;
   border-radius: 25px;
   width: 98%;
