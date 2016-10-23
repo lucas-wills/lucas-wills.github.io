@@ -1,4 +1,4 @@
-@media (min-width: 400px){
+@media screen and (min-width: 400px){
   .blogarea {
   width: 100%;
   box-sizing: border-box; }
@@ -28,45 +28,13 @@ body > img {
 
 h1 {
   text-align: center;
-  margin-top: 5em;
+  margin-top: 27rem;
   border: solid #c0c0a5 1rem;
 }
 .blogtitle{
   padding-left: .1em;
   margin-top: .5em;
   text-align: left;
-}
-.blog{
-  text-align: center;
-  margin-top: 0px;
-  height: 40px;
-  width: 120px;
-  padding-left: 27px;
-  padding-right: 27px;
-}
-
-.about {
-  text-align: center;
-  height: 40px;
-  width: 120px;
-  padding-left: 27px;
-  padding-right: 27px;
-}
-
-.projects {
-  text-align: center;
-  height: 40px;
-  width: 120px;
-  padding-left: 27px;
-  padding-right: 27px;
-}
-
-.contact{
-  text-align: center;
-  height: 40px;
-  width: 120px;
-  padding-left: 27px;
-  padding-right: 27px;
 }
 h3 {
   margin-left: .5em;
@@ -92,7 +60,7 @@ p {
 
 
 .blogarea {
-  height: 500px;
+  height: 48rem;
   overflow: auto;
 }
 
@@ -110,7 +78,46 @@ img{
   width: 95%;
 }
 
+button{
+  margin-right:2.3rem;
+}
 
+.blog{
+  text-align: center;
+  margin-top: 0rem;
+  margin-right: 0rem;
+  height: 4rem;
+  width: 12rem;
+  padding-left: 27px;
+  padding-right: 27px;
+}
+
+.about {
+  text-align: center;
+  margin-right: 0rem;
+  height: 4rem;
+  width: 12rem;
+  padding-left: 27px;
+  padding-right: 27px;
+}
+
+.projects {
+  text-align: center;
+  margin-right: 0rem;
+  height: 4rem;
+  width: 12rem;
+  padding-left: 27px;
+  padding-right: 27px;
+}
+
+.contact{
+  text-align: center;
+  margin-right: 0rem;
+  height: 4rem;
+  width: 12rem;
+  padding-left: 27px;
+  padding-right: 27px;
+}
 
 /* SERVICES STYLES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
